@@ -1,0 +1,5 @@
+﻿  gaussSeidel.cpp
+C:\Users\alkrd\Desktop\oop\gaussSeidel\gaussSeidel\gaussSeidel.cpp(32,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alkrd\Desktop\oop\gaussSeidel\gaussSeidel\gaussSeidel.cpp(46,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alkrd\Desktop\oop\gaussSeidel\gaussSeidel\gaussSeidel.cpp(58,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  gaussSeidel.vcxproj -> C:\Users\alkrd\Desktop\oop\gaussSeidel\x64\Debug\gaussSeidel.exe
